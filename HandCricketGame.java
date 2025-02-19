@@ -137,8 +137,5 @@ public class HandCricketGame {
             System.out.println("Oops !! You Lost the match!");
         }
     }
-   
-   
-  
-   
+       
 }
